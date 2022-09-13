@@ -1,6 +1,6 @@
 package aws
 
-import "github.com/blushft/go-diagrams/diagram"
+import "github.com/marccodinasegura/go-diagrams/diagram"
 
 type satelliteContainer struct {
 	path string

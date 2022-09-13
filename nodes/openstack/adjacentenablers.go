@@ -1,6 +1,6 @@
 package openstack
 
-import "github.com/blushft/go-diagrams/diagram"
+import "github.com/marccodinasegura/go-diagrams/diagram"
 
 type adjacentenablersContainer struct {
 	path string

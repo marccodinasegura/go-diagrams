@@ -1,6 +1,6 @@
 package programming
 
-import "github.com/blushft/go-diagrams/diagram"
+import "github.com/marccodinasegura/go-diagrams/diagram"
 
 type frameworkContainer struct {
 	path string
